@@ -26,7 +26,9 @@ Enter the number of passwords to generate: 3
 Generated Strong Passwords:
 
 Password 1: a$3FgH6iJ8lQ1pZm
+
 Password 2: k#9NpT5oX2rW7qYl
+
 Password 3: s@4EoU2vY1lA9bZx
 
 Notes:
