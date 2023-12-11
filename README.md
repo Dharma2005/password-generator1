@@ -1,5 +1,8 @@
 Strong Password Generator
-Overview
+
+
+Overview:
+
 This Python script generates strong passwords based on user-defined parameters, such as length and the number of passwords to generate. It ensures the inclusion of uppercase letters, lowercase letters, digits, and special characters in each generated password for enhanced security.
 
 Prerequisites
